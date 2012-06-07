@@ -5,13 +5,11 @@
 
 Développeur ruby, qui habite pas trop loin de Lyon et qui débute dans l'écriture de tests.
 
-Selon le succès du premier atelier et vos attentes, il y aura d'autres ateliers, plus avancés et sur Paris également.
-
 ###Combien ça coûte?
-125€ pour la matinée.
+250€ pour la journée..
 
 ###Quand?
-Lundi 28 Mai 2012 de 8h45h à 13h.
+La prochaine session aura lieu en juin ou pendant l'été 2012.
 
 ###Quel format de workshop?
 
@@ -42,7 +40,9 @@ L'espace de coworking ["la cordée" Charpennes](http://www.la-cordee.net/l-espac
 * 9h00  : Début de l'atelier
 * 11h00 - 11h15 : Pause
 * 12h00 : Questions / Réponses
-* 13h00 : Fin de l'atelier. Rétrospective et déjeuner à la cordée.
+* 13h00 : Déjeuner
+* 14h30 : Reprise de l'atelier
+* 17h30 : Rétrospective
 
 ### Sujets
 
