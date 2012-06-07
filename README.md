@@ -49,40 +49,37 @@ L'espace de coworking ["la cordée" Charpennes](http://www.la-cordee.net/l-espac
 Chaque sujet sera introduit par 1 ou 2 slides, suivi de mains dans le camboui du code.
 
 * Bootstrap (~ 15 min)
-* Framework de Tests [RSpec](https://www.relishapp.com/rspec) (~ 30 min)
+* Framework de Tests [RSpec](https://www.relishapp.com/rspec)
   * Qualitées d’un bon Test Unitaire
   * Hooks
   * equal matcher VS eql VS ==
   * raise_error matcher
   * Sucre syntaxique
 * Boite à outils (~ 20 min)
-  * Speeder l'éxécution de tests avec [Spork](https://github.com/sporkrb/spork) (~ 10 min)
-  * Automatiser l'éxécution de tests avec [Guard](https://github.com/guard/guard) (~ 5 min)
-  * Vérifier la couverture de tests avec [SimpleCov](https://github.com/colszowka/simplecov) (~ 5 min)
-* Test des libs (~ 15 min)
-* Tests des Modèles (~ 45 min)
+  * Speeder l'éxécution de tests avec [Spork](https://github.com/sporkrb/spork) 
+  * Automatiser l'éxécution de tests avec [Guard](https://github.com/guard/guard)
+  * Vérifier la couverture de tests avec [SimpleCov](https://github.com/colszowka/simplecov)
+* Test des libs
+* Tests des Modèles
   * use_transactional_fixtures
-  * Tests Data Builders avec [FactoryGirl](https://github.com/thoughtbot/factory_girl) (~ 15 min)
-  * Garder une DB de tests "clean" avec [DatabaseCleaner](https://github.com/bmabey/database_cleaner) (~ 10 min)
+  * Tests Data Builders avec [FactoryGirl](https://github.com/thoughtbot/factory_girl) 
+  * Garder une DB de tests "clean" avec [DatabaseCleaner](https://github.com/bmabey/database_cleaner)
   * Speeder les tests avec rspec-set de pcreux
-  * Tests des named scope / finders (~ 15 min)
-* Tests d'intégration avec [capybara](https://github.com/jnicklas/capybara) (~ 45 min)
-  * Pages sans js avec le driver rack_test (~ 30 min)
-  * Ajax avec le driver [webkit](https://github.com/thoughtbot/capybara-webkit) (~ 15 min)
+  * Tests des named scope / finders
+* Tests d'intégration avec [capybara](https://github.com/jnicklas/capybara)
+  * Pages sans js avec le driver rack_test
+  * Ajax avec le driver [webkit](https://github.com/thoughtbot/capybara-webkit)
   * Debug capybara
-* Mocks objects avec [rspec-mock](https://www.relishapp.com/rspec/rspec-mocks/docs) (~ 15 min)
+* Mocks objects avec [rspec-mock](https://www.relishapp.com/rspec/rspec-mocks/docs)
   * Introduction Mocks - Stubs - Test Doubles
   * Exemple de stubs: GeoLocalization
   * stubs: Time & DateTime
   * FactoryGirl build_stubbed
   * Mocks
-
-Bonus, s'il reste du temps:
-
-* Tests des Mailers avec [email_spec](https://github.com/bmabey/email-spec) (~ 15 min)
-* Tests des routes (~ 10 min)
-* Tests des [Controlleurs](http://solnic.eu/2012/02/02/yes-you-should-write-controller-tests.html) (~ 15 min)
-* Test des Helpers (~ 15 min)
+* Tests des Mailers avec [email_spec](https://github.com/bmabey/email-spec) 
+* Tests des routes
+* Tests des [Controlleurs](http://solnic.eu/2012/02/02/yes-you-should-write-controller-tests.html)
+* Test des Helpers
 
 ##Inscription
 
