@@ -6,7 +6,9 @@
 Développeur ruby, qui habite pas trop loin de Paris et qui débute dans l'écriture de tests.
 
 ###Combien ça coûte?
-250€ pour la journée..
+250€ HT pour la journée.
+
+Je suis auto-entrepreneur, je ne facture pas la TVA.
 
 ###Quand?
 La prochaine session aura lieu en juin ou pendant l'été 2012.
