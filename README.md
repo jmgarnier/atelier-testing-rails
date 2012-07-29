@@ -3,10 +3,12 @@
 ##Détails
 ###Pour qui?
 
-Développeur ruby, qui habite pas trop loin de Lyon et qui débute dans l'écriture de tests.
+Développeur ruby, qui habite pas trop loin de Paris et qui débute dans l'écriture de tests.
 
 ###Combien ça coûte?
 500 pour la journée..
+
+Je suis auto-entrepreneur, je ne facture pas la TVA.
 
 ###Quand?
 La prochaine session aura lieu en juin ou pendant l'été 2012.
@@ -32,7 +34,7 @@ Execute le script de bootstrap pour installer toutes les dépendances de dev:
 
 ###Où?
 
-L'espace de coworking ["la cordée" Charpennes](http://www.la-cordee.net/l-espace/acces-detail-espace-charpennes) à Lyon.
+TBD
 
 ##Agenda
 
@@ -48,14 +50,14 @@ L'espace de coworking ["la cordée" Charpennes](http://www.la-cordee.net/l-espac
 
 Chaque sujet sera introduit par 1 ou 2 slides, suivi de mains dans le camboui du code.
 
-* Bootstrap (~ 15 min)
+* Bootstrap
 * Framework de Tests [RSpec](https://www.relishapp.com/rspec)
   * Qualitées d’un bon Test Unitaire
   * Hooks
   * equal matcher VS eql VS ==
   * raise_error matcher
   * Sucre syntaxique
-* Boite à outils (~ 20 min)
+* Boite à outils
   * Speeder l'éxécution de tests avec [Spork](https://github.com/sporkrb/spork) 
   * Automatiser l'éxécution de tests avec [Guard](https://github.com/guard/guard)
   * Vérifier la couverture de tests avec [SimpleCov](https://github.com/colszowka/simplecov)
@@ -87,7 +89,7 @@ Merci de t'inscrire en répondant à ce [sondage de 5 minutes](http://www.21croi
 
 ## Réglement
 
-Vous pouvez payer les 125€ en liquide / cheque / virement ou je peux configurer [Weezevent](http://weezevent.com) pour la CB.
+Vous pouvez payer en liquide / cheque / virement ou je peux configurer [Weezevent](http://weezevent.com) pour la CB.
 Je suis auto-entrepreneur, je ne facture pas la TVA mais je peux vous faire une facture si besoin.
 
 Payable d'avance et remboursable jusqu'à une semaine avant l'atelier.
