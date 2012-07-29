@@ -6,7 +6,7 @@
 Développeur ruby, qui habite pas trop loin de Lyon et qui débute dans l'écriture de tests.
 
 ###Combien ça coûte?
-250€ pour la journée..
+500 pour la journée..
 
 ###Quand?
 La prochaine session aura lieu en juin ou pendant l'été 2012.
