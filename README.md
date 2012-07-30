@@ -18,7 +18,6 @@ La prochaine session aura lieu en juin ou pendant l'été 2012.
 * Entre 4 et 6 participants
 * une matinée de 4h avec ptit dej et pause café
 * Ecriture de tests avec [RSpec](https://www.relishapp.com/rspec)
-* Nous construirons le programme détaillé ensemble, je vous contacterai sur skype pour connaitre vos attentes
 
 ###Que préparer?
 
