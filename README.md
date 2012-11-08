@@ -3,84 +3,89 @@
 ##Détails
 ###Pour qui?
 
-Développeur ruby, qui habite pas trop loin de Paris et qui débute dans l'écriture de tests.
+Développeur qui débute dans l'écriture de tests.
 
 ###Combien ça coûte?
-500 pour la journée..
+500 € pour la journée.
 
 Je suis auto-entrepreneur, je ne facture pas la TVA.
 
 ###Quand?
-La prochaine session aura lieu en juin ou pendant l'été 2012.
+
+Contactez-moi par [e-mail](http://www.workingwithrails.com/person/6331-jean-michel-garnier/enquire/new) ou sur le [google group](https://groups.google.com/forum/?fromgroups#!forum/atelier-testing-rails) pour fixer une date.
 
 ###Quel format de workshop?
 
-* Entre 4 et 6 participants
-* une matinée de 4h avec ptit dej et pause café
+* Entre 2 et 6 participants
+* une journée, 7 heures de formation
 * Ecriture de tests avec [RSpec](https://www.relishapp.com/rspec)
+
+###Objectifs pédagogiques :
+
+* Ecrire des Tests lisibles, maintenables et rapides
+* Apprendre à utiliser et configurer le framework de tests RSpec
+* Etre capable d'identifier les classes et couches applicatives à tester en priorité
+* Connaître les principes du Développement Piloté par les Tests (TDD en anglais)
 
 ###Que préparer?
 
 Son ordinateur portable (linux ou mac) avec [ruby set up](http://installfest.railsbridge.org/installfest/installfest)
 
-Clone le repo :
-
-`git clone git://github.com/21croissants/testing-rails-workshop.git && cd testing-rails-workshop`
-
-Execute le script de bootstrap pour installer toutes les dépendances de dev:
-
-`script/bootstrap`
+Nous clonerons ensemble (ou via skype) le repo git de la formation et
+executer le script de bootstrap pour installer toutes les dépendances de dev.
 
 ###Où?
 
-TBD
+En France, Suisse ou Belgique;) Je suis basé à Lyon.
 
 ##Agenda
 
-* 8h45  : Intro + petit dej offert
-* 9h00  : Début de l'atelier
-* 11h00 - 11h15 : Pause
-* 12h00 : Questions / Réponses
-* 13h00 : Déjeuner
-* 14h30 : Reprise de l'atelier
-* 17h30 : Rétrospective
+* 9h00  : Accueil + petit dej offert
+* 9h30  : Début de la formation
+* 11h00 - 11h10 : Pause café
+* 12h30 : Pause déjeuner
+* 14h00 : Reprise de la formation
+* 16h00 - 16h15 : Pause café - vienoiseries
+* 18h00 : Fin de l'atelier. Rétrospective
 
-### Sujets
+### Contenus de formation :
 
 Chaque sujet sera introduit par 1 ou 2 slides, suivi de mains dans le camboui du code.
 
-* Bootstrap
-* Framework de Tests [RSpec](https://www.relishapp.com/rspec)
-  * Qualitées d’un bon Test Unitaire
-  * Hooks
-  * equal matcher VS eql VS ==
-  * raise_error matcher
-  * Sucre syntaxique
+* Introduction aux tests
+  * Comprendre la valeur des Tests Unitaires et pourquoi en écrire
+  * Connaître la différence entre Tests Unitaires et Tests d'Acceptance (cucumber)
+* Introduction au Framework de Tests [RSpec](https://www.relishapp.com/rspec)
+  * Apprendre les qualités d’un bon Test Unitaire
+  * Configurer les "Hooks" (before, after) pour chaque suite de tests et/ou test
+  * Apprendre les assertions d'égalité: equal, eql, eq
+  * Apprendre les assertions raise_error
+  * Découvrir le sucre syntaxique de RSpec
 * Boite à outils
-  * Speeder l'éxécution de tests avec [Spork](https://github.com/sporkrb/spork) 
-  * Automatiser l'éxécution de tests avec [Guard](https://github.com/guard/guard)
+  * Speeder l'exécution de tests avec [Spork](https://github.com/sporkrb/spork)
+  * Automatiser l'exécution de tests avec [Guard](https://github.com/guard/guard)
   * Vérifier la couverture de tests avec [SimpleCov](https://github.com/colszowka/simplecov)
-* Test des libs
-* Tests des Modèles
-  * use_transactional_fixtures
-  * Tests Data Builders avec [FactoryGirl](https://github.com/thoughtbot/factory_girl) 
+* Tester les librairies (lib)
+* Tester les Modèles
+  * Configurer use_transactional_fixtures
+  * Construire des données de test avec [FactoryGirl](https://github.com/thoughtbot/factory_girl)
   * Garder une DB de tests "clean" avec [DatabaseCleaner](https://github.com/bmabey/database_cleaner)
-  * Speeder les tests avec rspec-set de pcreux
-  * Tests des named scope / finders
+  * Tester la logique métier de votre application
+  * Tester les named scope et finders
 * Tests d'intégration avec [capybara](https://github.com/jnicklas/capybara)
-  * Pages sans js avec le driver rack_test
-  * Ajax avec le driver [webkit](https://github.com/thoughtbot/capybara-webkit)
-  * Debug capybara
-* Mocks objects avec [rspec-mock](https://www.relishapp.com/rspec/rspec-mocks/docs)
-  * Introduction Mocks - Stubs - Test Doubles
-  * Exemple de stubs: GeoLocalization
-  * stubs: Time & DateTime
-  * FactoryGirl build_stubbed
-  * Mocks
-* Tests des Mailers avec [email_spec](https://github.com/bmabey/email-spec) 
-* Tests des routes
-* Tests des [Controlleurs](http://solnic.eu/2012/02/02/yes-you-should-write-controller-tests.html)
-* Test des Helpers
+  * Tester les Pages sans javascript avec le driver rack_test
+  * Tester votre application web 2.0 Ajax avec le driver [webkit](https://github.com/thoughtbot/capybara-webkit)
+  * Déboguer avec capybara
+* Introduction aux Mocks objects avec [rspec-mock](https://www.relishapp.com/rspec/rspec-mocks/docs)
+  * Comprendre la différence entre "Stubs", "Mocks" et "Test Doubles"
+  * Stubber un service de géo-localisation
+  * Stubber les dates et heures
+  * Stubber avec FactoryGirl
+  * Vérifier le comportement d'une dépendance de la classe testée avec les Mocks
+* Tester les Mailers avec [email_spec](https://github.com/bmabey/email-spec)
+* Tester les routes
+* Tester les [Controlleurs](http://solnic.eu/2012/02/02/yes-you-should-write-controller-tests.html)
+* Tester les Helpers
 
 ##Inscription
 
