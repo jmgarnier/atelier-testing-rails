@@ -50,7 +50,7 @@ En France, Suisse ou Belgique;) Je suis basé à Lyon.
 
 ### Contenus de formation :
 
-Chaque sujet sera introduit par 1 ou 2 slides, suivi de mains dans le camboui du code.
+Chaque sujet sera introduit par 1 ou 2 slides, suivi d'exercices simples et pratiques.
 
 * Introduction aux tests
   * Comprendre la valeur des Tests Unitaires et pourquoi en écrire
