@@ -61,6 +61,7 @@ Chaque sujet sera introduit par 1 ou 2 slides, suivi d'exercices simples et prat
   * Apprendre les assertions d'égalité: equal, eql, eq
   * Apprendre les assertions raise_error
   * Découvrir le sucre syntaxique de RSpec
+* Découverte du Développement Piloté par les Tests (TDD)
 * Boite à outils
   * Speeder l'exécution de tests avec [Spork](https://github.com/sporkrb/spork)
   * Automatiser l'exécution de tests avec [Guard](https://github.com/guard/guard)
