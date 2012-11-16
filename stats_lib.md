@@ -12,7 +12,7 @@ MOS means "Mean Opinion Score", this is a VoIP test metric.
 
 ## Class Diagram
 
-![Alt text]( http://yuml.me/d8eac8c3 )
+![Alt text]( http://yuml.me/012f6c02 )
 
 The main class is "Calculator" whose responsability is to retrieve Value Object stats through a Query and decorates them with a Presenter.
 
