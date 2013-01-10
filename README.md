@@ -6,16 +6,16 @@
 Développeur qui débute dans l'écriture de tests.
 
 ###Combien ça coûte?
-500 € pour la journée.
-
-Je suis auto-entrepreneur, je ne facture pas la TVA.
+500 € / journée / personne soient **1000 €** pour les 2 jours.
+ la TVA.
 
 ###Quand?
 
-Contactez-moi par [e-mail](http://www.workingwithrails.com/person/6331-jean-michel-garnier/enquire/new) ou sur le [google group](https://groups.google.com/forum/?fromgroups#!forum/atelier-testing-rails) pour fixer une date.
+Contactez-moi par [e-mail](http://www.workingwithrails.com/person/6331-jean-michel-garnier/enquire/new) pour fixer une date.
 
 ###Quel format de workshop?
 
+* 2 jours de formation
 * Entre 2 et 6 participants
 * une journée, 7 heures de formation
 * Ecriture de tests avec [RSpec](https://www.relishapp.com/rspec)
@@ -46,7 +46,7 @@ En France, Suisse ou Belgique;) Je suis basé à Lyon.
 * 12h30 : Pause déjeuner
 * 14h00 : Reprise de la formation
 * 16h00 - 16h15 : Pause café - vienoiseries
-* 18h00 : Fin de l'atelier. Rétrospective
+* 17h00 : Fin de l'atelier. Rétrospective le second jour
 
 ### Contenus de formation :
 
@@ -90,14 +90,25 @@ Chaque sujet sera introduit par 1 ou 2 slides, suivi d'exercices simples et prat
 
 ##Inscription
 
-Merci de t'inscrire en répondant à ce [sondage de 5 minutes](http://www.21croissants.com/tdd).
+Merci de me contacter par [e-mail](http://www.workingwithrails.com/person/6331-jean-michel-garnier/enquire/new) ou sur le [google group](https://groups.google.com/forum/?fromgroups#!forum/atelier-testing-rails).
+
+## Recommendations
+
+> I asked Jean-Michel to train me as I wanted to improve my programming skills regarding RSpec and Test Driven approaches in Ruby. His workshop was rich and covered a lot of relevant topics. More importantly, it gaves us the necessary tools to pursue our own training
+
+[Etienne Depaulis, entrepreneur](http://etiennedepaulis.com/)
+
+> I wanted to thanks @21croissants to come to see us in Paris to give his #RailsTestingWorkshop Thanks man you did a great job ;) !
+
+[Stéphane Gomes, taxis-g7](https://twitter.com/e_quilibre/status/279098165167284224)
 
 ## Réglement
 
 Vous pouvez payer en liquide / cheque / virement ou je peux configurer [Weezevent](http://weezevent.com) pour la CB.
-Je suis auto-entrepreneur, je ne facture pas la TVA mais je peux vous faire une facture si besoin.
 
 Payable d'avance et remboursable jusqu'à une semaine avant l'atelier.
+
+Je ne possède pas pour l'instant d'agrément de formation mais je peux en obtenir un en un [mois](http://www.planete-auto-entrepreneur.com/autoentrepreneur/foire-aux-questions/824-comment-obtenir-un-agrement-de-formation.html).
 
 ##Questions?
 
