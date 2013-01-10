@@ -7,7 +7,6 @@ Développeur qui débute dans l'écriture de tests.
 
 ###Combien ça coûte?
 500 € / journée / personne soient **1000 €** pour les 2 jours.
- la TVA.
 
 ###Quand?
 
@@ -36,7 +35,7 @@ executer le script de bootstrap pour installer toutes les dépendances de dev.
 
 ###Où?
 
-En France, Suisse ou Belgique;) Je suis basé à Lyon.
+En France, Suisse ou Belgique. Je suis basé à Lyon.
 
 ##Agenda
 
