@@ -62,7 +62,7 @@ Chaque sujet sera introduit par 1 ou 2 slides, suivi d'exercices simples et prat
   * Découvrir le sucre syntaxique de RSpec
 * Découverte du Développement Piloté par les Tests (TDD)
 * Boite à outils
-  * Speeder l'exécution de tests avec [Spork](https://github.com/sporkrb/spork)
+  * Speeder l'exécution de tests avec [Zeus](https://github.com/burke/zeus)
   * Automatiser l'exécution de tests avec [Guard](https://github.com/guard/guard)
   * Vérifier la couverture de tests avec [SimpleCov](https://github.com/colszowka/simplecov)
 * Tester les librairies (lib)
