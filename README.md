@@ -94,7 +94,20 @@ Chaque sujet sera introduit par 1 ou 2 slides, suivi d'exercices simples et prat
 
 Merci de me contacter par [e-mail](mailto:jean-michel@21croissants.com) ou sur le [google group](https://groups.google.com/forum/?fromgroups#!forum/atelier-testing-rails).
 
+## A propos
+Ingénieur développeur Ruby, Jean-Michel écrit des Tests depuis 2001.
+Il a donné de nombreuses conférences sur le sujet : Conferencia Rails 2006 (Madrid), XP Days France 2008, Continous Integration and Testing conference Amsterdam 2008, Paris on Rails 2007 et 2008 ainsi que Ruby Camp Lyon 2009 et 2010
+
 ## Recommendations
+
+> On s'amuse et on code, c'est presque comme le week-end
+  Thomas Petrachi - Vodeclic
+
+> Formateur didactique et ouvert aux changements. Il sort des sentiers battu pour nous présenter des méthodes différentes. On se sent apte à débuter un projet après cette formation.
+  Cédrik Mallet - Ministère de l'écologie
+  
+> Excellente formation, dans une ambiance chaleureuse. On discute, on échange, on apprend, et on repart avec plein de choses en tête qu'on a hâte d'appliquer.
+  Timothée Carry - Octo  
 
 > I asked Jean-Michel to train me as I wanted to improve my programming skills regarding RSpec and Test Driven approaches in Ruby. His workshop was rich and covered a lot of relevant topics. More importantly, it gaves us the necessary tools to pursue our own training
 
