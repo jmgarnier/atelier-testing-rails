@@ -8,11 +8,11 @@ Développeur Ruby qui débute dans l'écriture de tests.
 ### Combien ça coûte?
 500 € / journée / personne soient **1500 €** pour les 3 jours.
 
-###Quand?
+### Quand?
 
 Contactez-moi par [e-mail](mailto:jean-michel@21croissants.com) pour fixer une date.
 
-###Quel format?
+### Quel format?
 
 * 3 jours de formation
 * 1 jour et demi de théorie avec exercices courts pour valider chaque étape
@@ -88,7 +88,7 @@ Chaque sujet sera introduit par 1 ou 2 slides, suivi d'exercices simples et prat
 * Tester les [Controlleurs](http://solnic.eu/2012/02/02/yes-you-should-write-controller-tests.html)
 * Tester les Helpers
 
-##Inscription
+## Inscription
 
 Merci de me contacter par [e-mail](mailto:jean-michel@21croissants.com) ou sur le [google group](https://groups.google.com/forum/?fromgroups#!forum/atelier-testing-rails).
 
@@ -110,6 +110,6 @@ Payable d'avance et remboursable jusqu'à une semaine avant l'atelier.
 
 Je ne possède pas pour l'instant d'agrément de formation mais je peux en obtenir un 
 
-##Questions?
+## Questions?
 
 Contactez-moi par [e-mail](mailto:jean-michel@21croissants.com) ou sur le [google group](https://groups.google.com/forum/?fromgroups#!forum/atelier-testing-rails).
