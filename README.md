@@ -14,14 +14,16 @@ Contactez-moi par [e-mail](mailto:jean-michel@21croissants.com) pour fixer une d
 
 ### Quel format?
 
-* 3 jours de formation
-* 1 jour et demi de théorie avec exercices courts pour valider chaque étape
-* 1 jour et demi de pratique sur un vrai projet
+* 3 jours de formation (7h / jour):
+  * 1 jour et demi de théorie avec exercices courts pour valider chaque étape
+  * 1 jour et demi de pratique sur un vrai projet
 * Entre 2 et 6 participants
-* une journée = 7 heures de formation
 * Ecriture de tests avec [RSpec](http://rspec.info/)
+* Sur Paris, Lyon ou Annecy, formation à [La Cordée]( http://www.la-cordee.net/ )
 
 ### Objectifs pédagogiques :
+
+J'estime qu'il faut entre 6 mois et 1 an pour être à l'aise avec les tests. L'objectif principal de cet atelier est de réduire la courbe d'apprentissage afin de bénéficier le plus rapidemment possible de la sérénité d'une bonne couverture de tests :)
 
 * Ecrire des Tests lisibles, maintenables et rapides
 * Apprendre à utiliser et configurer le framework de tests RSpec
@@ -107,8 +109,6 @@ Merci de me contacter par [e-mail](mailto:jean-michel@21croissants.com) ou sur l
 Vous pouvez payer par virement ou je peux configurer [Weezevent](http://weezevent.com) pour la CB.
 
 Payable d'avance et remboursable jusqu'à une semaine avant l'atelier.
-
-Je ne possède pas pour l'instant d'agrément de formation mais je peux en obtenir un 
 
 ## Questions?
 
