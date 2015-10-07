@@ -1,43 +1,44 @@
-#Testing Rails Workshop
+# Testing Rails Workshop
 
-##Détails
-###Pour qui?
+## Détails
+### Pour qui?
 
-Développeur qui débute dans l'écriture de tests.
+Développeur Ruby qui débute dans l'écriture de tests.
 
-###Combien ça coûte?
-500 € / journée / personne soient **1000 €** pour les 2 jours.
+### Combien ça coûte?
+500 € / journée / personne soient **1500 €** pour les 3 jours.
 
 ###Quand?
 
-Contactez-moi par [e-mail](http://www.workingwithrails.com/person/6331-jean-michel-garnier/enquire/new) pour fixer une date.
+Contactez-moi par [e-mail](mailto:jean-michel@21croissants.com) pour fixer une date.
 
-###Quel format de workshop?
+###Quel format?
 
-* 2 jours de formation
+* 3 jours de formation
+* 1 jour et demi de théorie avec exercices courts pour valider chaque étape
+* 1 jour et demi de pratique sur un vrai projet
 * Entre 2 et 6 participants
-* une journée, 7 heures de formation
-* Ecriture de tests avec [RSpec](https://www.relishapp.com/rspec)
+* une journée = 7 heures de formation
+* Ecriture de tests avec [RSpec](http://rspec.info/)
 
-###Objectifs pédagogiques :
+### Objectifs pédagogiques :
 
 * Ecrire des Tests lisibles, maintenables et rapides
 * Apprendre à utiliser et configurer le framework de tests RSpec
 * Etre capable d'identifier les classes et couches applicatives à tester en priorité
 * Connaître les principes du Développement Piloté par les Tests (TDD en anglais)
 
-###Que préparer?
+### Que préparer?
 
 Son ordinateur portable (linux ou mac) avec [ruby set up](http://installfest.railsbridge.org/installfest/installfest)
 
-Nous clonerons ensemble (ou via skype) le repo git de la formation et
-executer le script de bootstrap pour installer toutes les dépendances de dev.
+Nous clonerons ensemble (ou via skype) le repo git de la formation et executerons le script de bootstrap pour installer toutes les dépendances de dev.
 
-###Où?
+### Où?
 
 En France, Suisse ou Belgique. Je suis basé à Lyon.
 
-##Agenda
+## Agenda
 
 * 9h00  : Accueil + petit dej offert
 * 9h30  : Début de la formation
@@ -45,7 +46,7 @@ En France, Suisse ou Belgique. Je suis basé à Lyon.
 * 12h30 : Pause déjeuner
 * 14h00 : Reprise de la formation
 * 16h00 - 16h15 : Pause café - vienoiseries
-* 17h00 : Fin de l'atelier. Rétrospective le second jour
+* 17h00 : Fin de l'atelier. Rétrospective le dernier jour
 
 ### Contenus de formation :
 
@@ -89,7 +90,7 @@ Chaque sujet sera introduit par 1 ou 2 slides, suivi d'exercices simples et prat
 
 ##Inscription
 
-Merci de me contacter par [e-mail](http://www.workingwithrails.com/person/6331-jean-michel-garnier/enquire/new) ou sur le [google group](https://groups.google.com/forum/?fromgroups#!forum/atelier-testing-rails).
+Merci de me contacter par [e-mail](mailto:jean-michel@21croissants.com) ou sur le [google group](https://groups.google.com/forum/?fromgroups#!forum/atelier-testing-rails).
 
 ## Recommendations
 
@@ -103,12 +104,12 @@ Merci de me contacter par [e-mail](http://www.workingwithrails.com/person/6331-j
 
 ## Réglement
 
-Vous pouvez payer en liquide / cheque / virement ou je peux configurer [Weezevent](http://weezevent.com) pour la CB.
+Vous pouvez payer par virement ou je peux configurer [Weezevent](http://weezevent.com) pour la CB.
 
 Payable d'avance et remboursable jusqu'à une semaine avant l'atelier.
 
-Je ne possède pas pour l'instant d'agrément de formation mais je peux en obtenir un en un [mois](http://www.planete-auto-entrepreneur.com/autoentrepreneur/foire-aux-questions/824-comment-obtenir-un-agrement-de-formation.html).
+Je ne possède pas pour l'instant d'agrément de formation mais je peux en obtenir un 
 
 ##Questions?
 
-Contactez-moi par [e-mail](http://www.workingwithrails.com/person/6331-jean-michel-garnier/enquire/new) ou sur le [google group](https://groups.google.com/forum/?fromgroups#!forum/atelier-testing-rails).
+Contactez-moi par [e-mail](mailto:jean-michel@21croissants.com) ou sur le [google group](https://groups.google.com/forum/?fromgroups#!forum/atelier-testing-rails).
