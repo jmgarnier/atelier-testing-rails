@@ -101,12 +101,15 @@ Il a donné de nombreuses conférences sur le sujet : Conferencia Rails 2006 (Ma
 ## Recommendations
 
 > On s'amuse et on code, c'est presque comme le week-end
+  
   Thomas Petrachi - Vodeclic
 
 > Formateur didactique et ouvert aux changements. Il sort des sentiers battu pour nous présenter des méthodes différentes. On se sent apte à débuter un projet après cette formation.
+  
   Cédrik Mallet - Ministère de l'écologie
   
 > Excellente formation, dans une ambiance chaleureuse. On discute, on échange, on apprend, et on repart avec plein de choses en tête qu'on a hâte d'appliquer.
+  
   Timothée Carry - Octo  
 
 > I asked Jean-Michel to train me as I wanted to improve my programming skills regarding RSpec and Test Driven approaches in Ruby. His workshop was rich and covered a lot of relevant topics. More importantly, it gaves us the necessary tools to pursue our own training
